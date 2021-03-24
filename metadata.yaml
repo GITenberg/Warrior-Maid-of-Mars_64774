@@ -1,0 +1,29 @@
+_repo: Warrior-Maid-of-Mars_64774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coppel, Alfred
+    aliases:
+    - Gilman, Robert Cham
+    - Coppel, Alfredo José de Arana-Marini
+    - Marin, A. C.
+    - Coppel, Alfredo Jose de Arana-Marini
+    - Galaxan, Sol
+    birthdate: 1921
+    deathdate: 2004
+    gutenberg_agent_id: '25110'
+    url: http://www.gutenberg.org/2009/agents/25110
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Coppel
+description: ''
+gutenberg_issued: '2021-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Warrior Maid of Mars
+url: http://www.gutenberg.org/ebooks/64774
